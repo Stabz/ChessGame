@@ -1,13 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+* creates an array[] of the Class ChessPiece 
+* then instantiates one of each of the ChessPiece extendet classes: Bishop, Knight and Rook.
+*tried out show() and move() method
  */
 package javaapplication48;
 
 /**
  *
- * @author bruger
+ * @author Dmitro Karaush email: DmitroKaraush@gmail.com
  */
 public class Main {
 
